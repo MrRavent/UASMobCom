@@ -8,16 +8,16 @@ Pengembangan aplikasi catatan pada platform Android muncul sebagai solusi untuk 
 
 ## Fitur-Fitur
 * Home page
-![Homepage](images/home.jpg)
+ ** ![Homepage](images/home.jpg)
 
 	Berikut adalah tampilan Homepage yang warna backgroundnya mengikuti setting default dari device, Device pada gambar menggunakan Dark Theme
 * Create Note
-  ![Create](images/new.jpg)
-  ![Added Note](images/add.jpg)
+  ** ![Create](images/new.jpg)
+  ** ![Added Note](images/add.jpg)
 	Fitur ini memperbolehkan user untuk membuat Note baru yang terdiri atas Judul dan Isi Note
 * Update Note
-  ![Update](images/edit.jpg)
+  ** ![Update](images/edit.jpg)
 	Fitur ini memperbolehkan user untuk merubah Note yang sudah ada
 * Delete Note
-  ![Delete](images/delete.jpg)
+  ** ![Delete](images/delete.jpg)
 	Fitur ini memperbolehkan user untuk menghapus note yang ada
